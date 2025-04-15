@@ -1,0 +1,32 @@
+body {
+  background-color: hsl(257, 40%, 49%);
+  background-image: url(images/bg-desktop.svg);
+}
+
+.logo {
+  display: flex;
+}
+
+.mockup {
+  display: flex;
+  justify-content: space-between;
+}
+
+.build-the-community h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.build-the-community p {
+  display: flex;
+  justify-content: center;
+}
+
+.register {
+  display: flex;
+  justify-content: center;
+}
+
+.attribution {
+  justify-content: center;
+}
